@@ -1,0 +1,13 @@
+__pycache__
+logs
+snapshots
+tmp
+*.txt
+*.pyc
+*.apk
+data.sqlite
+task.pkl
+testcases/*.py
+data
+.idea
+*.png
